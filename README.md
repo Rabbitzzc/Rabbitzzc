@@ -2,12 +2,12 @@
 <br/>
 
 <!-- <a href="https://www.npmjs.com/~simida">
-  <img align="left" alt="npm" width="22px" src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/npm.svg" />
+  <img align="left" alt="npm" width="22px" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/npm.svg" />
 </a> -->
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/giphy.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
@@ -19,7 +19,7 @@
 
 #### - ⚽️ Real Madrid Club de Fútbol <code><img height="20" src="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_48x48.png"></code>。
 
-#### - 📮 邮箱(email)? 点这 👉🏼 [<img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/social/gmail.svg">](zzclovelcs@gmail.com)。
+#### - 📮 邮箱(email)? 点这 👉🏼 [<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/social/gmail.svg">](zzclovelcs@gmail.com)。
 
 
 <br />
@@ -43,20 +43,20 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
- <img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/frameworks/nodejs.svg" alt="node" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/misc/web.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/frameworks/nodejs.svg" alt="node" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/misc/web.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:4px"><img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 </p>
 
 <!-- ### - Blogs 🌱
 
 <p align="center">
-<img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/blogs/devto.svg">
+<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/blogs/devto.svg">
 </p> -->
 
 <!-- ### - Podcast ⚡️
 <p align="center">
-  <img src="https://github.com/Rabbitzzc/Rabbitzzc/svgs/coloredBadges/svg/streaming/podcast.svg"> 
+  <img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/streaming/podcast.svg"> 
 </p> -->
 
 
