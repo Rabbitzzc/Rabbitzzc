@@ -1,19 +1,14 @@
-### Hi，I am [Rabbitzzc!](https://github.com/Rabbitzzc)👋，[Blog~](http://www.rabbitzzc.top/) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
-<br/>
-
 <div align="center">
 	<br>
 		<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/header.svg" width="800" height="400">
 	<br>
 </div>
-<!-- <a href="https://www.npmjs.com/~simida">
-  <img align="left" alt="npm" width="22px" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/npm.svg" />
-</a> -->
+
+### Hi，I am [Rabbitzzc!](https://github.com/Rabbitzzc)👋! ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+<br/>
 
 <br />
-
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/giphy.gif" />
-<br />
 
 ### Hi 🙋‍♂️,
 ### 24, [Graduated from CCNU](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)(Central China Normal University)Undergraduate. in Wuhan and currently work in Beijing.
