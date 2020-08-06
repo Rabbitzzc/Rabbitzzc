@@ -10,7 +10,6 @@
   <img align="left" alt="npm" width="22px" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/npm.svg" />
 </a> -->
 
-<br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/giphy.gif" />
 <br />
