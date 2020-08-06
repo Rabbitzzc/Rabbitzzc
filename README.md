@@ -1,6 +1,11 @@
-### 哈喽，我是[Rabbitzzc!](https://github.com/Rabbitzzc)👋，这里是我的[博客~](http://www.rabbitzzc.top/) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi，I am [Rabbitzzc!](https://github.com/Rabbitzzc)👋，[Blog~](http://www.rabbitzzc.top/) ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 <br/>
 
+<div align="center">
+	<br>
+		<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/header.svg" width="800" height="400">
+	<br>
+</div>
 <!-- <a href="https://www.npmjs.com/~simida">
   <img align="left" alt="npm" width="22px" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/npm.svg" />
 </a> -->
@@ -11,26 +16,26 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### 24岁，[毕业于华中师范大学](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)(Central China Normal University)，本科。定居武汉，目前工作地点在北京。
+### 24, [Graduated from CCNU](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)(Central China Normal University)Undergraduate. in Wuhan and currently work in Beijing.
 
 
-#### - 🥀 学习中... Webassembly  <code><img height="20" src="https://avatars1.githubusercontent.com/u/11578470?s=200&v=4"></code>，NuxtJs <code> <img height="20" width="16" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4"> </code>  & Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>。
+#### - 🥀 Learning... Webassembly  <code><img height="20" src="https://avatars1.githubusercontent.com/u/11578470?s=200&v=4"></code>，NuxtJs <code> <img height="20" width="16" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4"> </code>  & Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>。
 
 
-#### - ⚽️ Real Madrid Club de Fútbol <code><img height="20" src="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_48x48.png"></code>。
+#### - ⚽️ Real Madrid Club de Fútbol <code><img height="20" src="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_48x48.png"></code>.
 
-#### - 🏀 Golden State Warriors <code><img height="20" src="https://gdc.hupucdn.com/gdc/nba/team/logo/e6d876b019135540.png"></code>。
+#### - 🏀 Golden State Warriors <code><img height="20" src="https://gdc.hupucdn.com/gdc/nba/team/logo/e6d876b019135540.png"></code>.
 
 
-#### - 📮 邮箱(email)? 点这 👉🏼 [<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/social/gmail.svg">](zzclovelcs@gmail.com)。
+#### - 📮 Email? Click 👉🏼 [<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/coloredBadges/svg/social/gmail.svg">](zzclovelcs@gmail.com).
 
 
 <br />
 
 
-**感兴趣的点， 🙏**
+**Interests🙏**
 
-**图像识别，Node，前端性能优化，SEO，JavaScript，微信小程序，Flutter，UI设计，Electronjs，Chrome Extension😼...**
+**Image recognition, Node, front-end performance optimization, SEO, JavaScript, WeChat applet, Flutter, UI design，Electronjs，Chrome Extension😼...**
 <br />
 
 
@@ -40,7 +45,7 @@
 
 <br />
 
-### - 语言&工具
+### - Language && Tools
 
 <p align="center">
 
@@ -65,7 +70,7 @@
 
 ***********************************
 
-#### 谢谢~ 🙏🏼
+#### Thanks~ 🙏🏼
 
 
 
