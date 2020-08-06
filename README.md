@@ -11,7 +11,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/giphy.gif" />
 
 ### Hi 🙋‍♂️,
-### 24, [Graduated from CCNU](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)(Central China Normal University)Undergraduate. in Wuhan and currently work in Beijing.
+### 24, [Graduated from CCNU](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)(Central China Normal University). Living in Wuhan and working in Beijing.
 
 
 #### - 🥀 Learning... Webassembly  <code><img height="20" src="https://avatars1.githubusercontent.com/u/11578470?s=200&v=4"></code>，NuxtJs <code> <img height="20" width="16" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4"> </code>  & Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>。
