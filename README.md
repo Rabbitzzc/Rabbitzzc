@@ -1,9 +1,3 @@
-<div align="center">
-	<br>
-		<img src="https://github.com/Rabbitzzc/Rabbitzzc/blob/master/svgs/header.svg" width="800" height="400">
-	<br>
-</div>
-
 ### Hi，I am [Rabbitzzc!](https://github.com/Rabbitzzc)👋! ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 <br/>
 
