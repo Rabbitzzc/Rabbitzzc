@@ -1,4 +1,4 @@
-### 嘿，我是[Rabbitzzc!](https://github.com/Rabbitzzc)👋! ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hey, I'm[Rabbitzzc!](https://github.com/Rabbitzzc)👋! ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 <br/>
 
 
